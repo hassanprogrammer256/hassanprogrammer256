@@ -3,7 +3,7 @@
 
 I am **Hassan Kyeswa**, a software developer and Full Stack developer, I am  currently pursuing a bachelors degree in Information Technology at the [Islamic University In uganda (I.U.I.U)](https://www.iuiu.ac.ug).
 
-My role is to make a world a better place by building positively impactful solutions to the problems faced by people. When I am not saving the world, I am learning something new on the command line.
+As a dedicated Software Developer, I specialize in crafting efficient, scalable, and robust applications. My primary focus is on creating high-quality code and collaborating with cross-functional teams to deliver innovative solutions that meet user needs and business goals.
 
 # Tools <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png" width="20" height="20" alt="Tools" />
 
