@@ -1,7 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/>
 
 
-I am ** Hassan Kyeswa **, a software developer and Full Stack developer, I am  currently pursuing a bachelors degree in Information Technology at the [Islamic University In uganda (I.U.I.U)](https://www.iuiu.ac.ug).
+I am **Hassan Kyeswa**, a software developer and Full Stack developer, I am  currently pursuing a bachelors degree in Information Technology at the [Islamic University In uganda (I.U.I.U)](https://www.iuiu.ac.ug).
 
 My role is to make a world a better place by building positively impactful solutions to the problems faced by people. When I am not saving the world, I am learning something new on the command line.
 
