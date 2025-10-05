@@ -14,3 +14,9 @@ As a dedicated Software Developer, I specialize in crafting efficient, scalable,
 
 # Contact Me
 [Facebook](https://www.facebook.com/hassan.programmer.2025)
+
+# Contributions
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hassanprogrammer256&count_private=true&theme=react&showicons=true)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanprogrammer256&langs_count=5&theme=react)]()
+[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hassanprogrammer256)](https://github.com/hassanprogrammer256/github-contribution-stats/)
+
