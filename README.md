@@ -1,6 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/>
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=CCC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Developer;Python+Programmer;" alt="Typing SVG" />
+</div>
 I am **Hassan Kyeswa**, a software developer and Full Stack developer, I am  currently pursuing a bachelors degree in Information Technology at the [Islamic University In uganda (I.U.I.U)](https://www.iuiu.ac.ug).
 
 As a dedicated Software Developer, I specialize in crafting efficient, scalable, and robust applications. My primary focus is on creating high-quality code and collaborating with cross-functional teams to deliver innovative solutions that meet user needs and business goals.
@@ -19,4 +20,6 @@ As a dedicated Software Developer, I specialize in crafting efficient, scalable,
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hassanprogrammer256&count_private=true&theme=react&showicons=true)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanprogrammer256&langs_count=5&theme=react)]()
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hassanprogrammer256)](https://github.com/hassanprogrammer256/github-contribution-stats/)
+
+
 
