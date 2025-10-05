@@ -1,6 +1,6 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/>
+# Hi, I am Hassan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="30" height="30"/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=CCC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Developer;Python+Programmer;" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=CCC&center=true&vCenter=true&width=435&lines=A+Fullstack+Developer;A+Software+Developer;A+Python+Programmer;" alt="Typing SVG" />
 </div>
 I am **Hassan Kyeswa**, a software developer and Full Stack developer, I am  currently pursuing a bachelors degree in Information Technology at the [Islamic University In uganda (I.U.I.U)](https://www.iuiu.ac.ug).
 
