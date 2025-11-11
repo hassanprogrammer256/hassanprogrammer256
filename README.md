@@ -11,6 +11,7 @@ As a dedicated Software Developer, I specialize in crafting efficient, scalable,
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-DD0031.svg?style=for-the-badge&logo=React&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/Typescript-skyblue.svg?style=for-the-badge&logo=Typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-ff7f0e.svg?style=for-the-badge&logo=Javascript&logoColor=white)
 
 # Contact Me
