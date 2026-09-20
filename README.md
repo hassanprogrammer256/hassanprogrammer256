@@ -15,6 +15,7 @@ As a dedicated Software Developer, I specialize in crafting efficient, scalable,
 ![JavaScript](https://img.shields.io/badge/Javascript-ff7f0e.svg?style=for-the-badge&logo=Javascript&logoColor=white)
 # Certificates
 ![Certifified C# Programmer](https://ik.imagekit.io/minifypics/Certificates/certified_c_developer.png)
+![BE10x AI Tools Workshop](https://ik.imagekit.io/minifypics/Certificates/Certificate-1.png)
 # Contact Me
 [Facebook](https://www.facebook.com/hassan.programmer.2025)
 
