@@ -2,7 +2,8 @@
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=CCC&center=true&vCenter=true&width=435&lines=A+Fullstack+Developer;A+Software+Developer;A+Python+Programmer;" alt="Typing SVG" />
 </div>
-I am **Hassan Kyeswa**, a software developer and Full Stack developer, I am  currently pursuing a bachelors degree in Information Technology at the [Islamic University In uganda (I.U.I.U)](https://www.iuiu.ac.ug).
+
+I am **Hassan Kyeswa**, a software developer and Full Stack developer. I am currently pursuing a bachelor's degree in Information Technology at the [Islamic University In Uganda (I.U.I.U)](https://www.iuiu.ac.ug/).
 
 As a dedicated Software Developer, I specialize in crafting efficient, scalable, and robust applications. My primary focus is on creating high-quality code and collaborating with cross-functional teams to deliver innovative solutions that meet user needs and business goals.
 
